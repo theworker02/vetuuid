@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/vetuuid",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vet numeric uuid values, ranges, and human-readable units.",
+  "bin": {
+    "vetuuid": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/vetuuid.git"
+  },
+  "homepage": "https://theworker02.github.io/vetuuid/",
+  "keywords": [
+    "vet",
+    "uuid",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
